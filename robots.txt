@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://connormatthewdouglas.github.io/springs-coast-profiles/sitemap.xml
